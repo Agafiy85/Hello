@@ -1,0 +1,22 @@
+.hello{
+    background: aqua;
+    text-align: center;
+    width: 212px;
+    border: 2px solid black;
+    border-radius: 13px;
+    transform: skew(34deg);
+    
+}
+.img{
+    background: url(../img/Фон.png) no-repeat;
+    height: 769px;
+    transform: rotateX(40deg) rotateY(16deg);
+}
+.img .p{
+    font-size: 25px;
+    color: #fff;
+    border: 2px solid red;
+    height: 41px;
+    width: 218px;
+    background: blueviolet;
+}
