@@ -12,7 +12,7 @@
     height: 769px;
     transform: rotateX(40deg) rotateY(16deg);
 }
-.img .p{
+.text{
     font-size: 25px;
     color: #fff;
     border: 2px solid red;
